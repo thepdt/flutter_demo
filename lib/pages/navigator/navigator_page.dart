@@ -192,7 +192,7 @@ class _NavigatorPageState extends State<NavigatorPage> {
 //                ? 'Categories'
 //                : _currentIndex == 2
 //                    ? 'Favorite'
-//                    : _currentIndex == 3 ? 'Notification' : _currentIndex == 4 ? 'Account' : 'SHOPii',
+//                    : _currentIndex == 3 ? 'Notification' : _currentIndex == 4 ? 'Account' : 'GRITteam',
 //            style: DEFAULT_TEXT_STYLE.copyWith(letterSpacing: 1.5, fontWeight: FontWeight.bold),
 //          ),
 //        ),

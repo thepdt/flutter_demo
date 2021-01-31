@@ -59,7 +59,7 @@ class _LoginPageState extends State<LoginPage> {
                       width: 20,
                     ),
                     Text(
-                      'SHOPii!',
+                      'GRITteam!',
                       style: TextStyle(color: BACKGROUND_COLOR, fontSize: 45),
                     )
                   ],

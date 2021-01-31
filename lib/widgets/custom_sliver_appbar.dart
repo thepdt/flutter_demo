@@ -68,7 +68,7 @@ class CustomSliverAppBar extends SliverPersistentHeaderDelegate {
                       mainAxisAlignment: MainAxisAlignment.spaceBetween,
                       children: <Widget>[
                         Text(
-                          'SHOPii',
+                          'GRITteam',
                           style:
                               TEXT_STYLE_PRIMARY.copyWith(letterSpacing: 1.2),
                         ),
