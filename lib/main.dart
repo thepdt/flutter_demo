@@ -39,7 +39,7 @@ class MyApp extends StatelessWidget {
         ],
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'SHOPii',
+          title: 'GRITteam',
           theme: ThemeData(
             fontFamily: GoogleFonts.aBeeZee().fontFamily,
             // This is the theme of your application.
